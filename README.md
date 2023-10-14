@@ -34,4 +34,37 @@ O SPP é um recurso valioso para pesquisadores que estudam priming semântico, a
 Tempo de reação: Os dados mostram que os participantes levaram menos tempo para reconhecer palavras-alvo que foram precedidas por palavras-priming relacionadas do que palavras-alvo que foram precedidas por palavras-priming não relacionadas. Isso sugere que o priming semântico pode acelerar o processo de reconhecimento de palavras.
 Precisão: Os dados também mostram que os participantes foram mais precisos em reconhecer palavras-alvo que foram precedidas por palavras-priming relacionadas do que palavras-alvo que foram precedidas por palavras-priming não relacionadas. Isso sugere que o priming semântico pode melhorar a precisão do reconhecimento de palavras.
 
+
+
+Os capos da tabela com informações sobre priming são:
+
+ExperimentName: O nome do experimento.
+Subject: O número do sujeito.
+Session: O número da sessão.
+Block: O número do bloco.
+Trial: O número do trial.
+isi: O intervalo inter-estímulo em milissegundos.
+lexicality: A lexicalidade do prime (1 = palavra, 2 = não-palavra).
+prime: O prime.
+primecond: A condição do prime (1 = relacionado, 2 = não relacionado).
+target: O target.
+target.ACC: A precisão do target (1 = correto, 0 = incorreto).
+target.RT: O tempo de reação do target em milissegundos.
+type: O tipo de trial (1 = prime-target, 2 = filler).
+rel: O relacionamento entre o prime e o target (1 = relacionado, 2 = não relacionado).
+pre_rel: O relacionamento entre o prime anterior e o target atual (1 = relacionado, 2 = não relacionado).
+keep: O número de trials consecutivos com o mesmo relacionamento entre o prime e o target.
+Ztarget.RT: O tempo de reação do target padronizado.
+nbreak: O número de trials consecutivos com o mesmo tempo de reação do target.
+trim2.5: O tempo de reação do target com os 2,5% mais rápidos e mais lentos removidos.
+trim3.0: O tempo de reação do target com os 3,0% mais rápidos e mais lentos removidos.
+Ztrim2.5: O tempo de reação do target padronizado com os 2,5% mais rápidos e mais lentos removidos.
+Ztrim3.0: O tempo de reação do target padronizado com os 3,0% mais rápidos e mais lentos removidos.
+Os capos mais importantes para analisar os efeitos de priming são:
+
+target.RT: O tempo de reação do target.
+rel: O relacionamento entre o prime e o target.
+Ztarget.RT: O tempo de reação do target padronizado.
+
+
 ..
