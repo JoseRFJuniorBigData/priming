@@ -31,4 +31,7 @@ Como as diferenças individuais, como controle atencional, leitura e vocabulári
 Como o priming semântico pode ser usado para prever o desempenho em outras tarefas cognitivas?
 O SPP é um recurso valioso para pesquisadores que estudam priming semântico, atenção, memória, leitura, vocabulário e outros processos cognitivos.
 
+Tempo de reação: Os dados mostram que os participantes levaram menos tempo para reconhecer palavras-alvo que foram precedidas por palavras-priming relacionadas do que palavras-alvo que foram precedidas por palavras-priming não relacionadas. Isso sugere que o priming semântico pode acelerar o processo de reconhecimento de palavras.
+Precisão: Os dados também mostram que os participantes foram mais precisos em reconhecer palavras-alvo que foram precedidas por palavras-priming relacionadas do que palavras-alvo que foram precedidas por palavras-priming não relacionadas. Isso sugere que o priming semântico pode melhorar a precisão do reconhecimento de palavras.
+
 ..
