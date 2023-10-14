@@ -11,11 +11,60 @@
             "id": "4c33b819b263f523",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JOSERFJUNIOR/ENGLISH/KNOW/have.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91e7571eac0461b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JOSERFJUNIOR/ENGLISH/KNOW/have.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfa9fb81a1fb0438",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JOSERFJUNIOR/ENGLISH/NOT_KNOW/far.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "127e8d9b82792a51",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "5c9917970b6043d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JOSERFJUNIOR/ENGLISH/PHRASES/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -28,16 +77,6 @@
         "id": "46d69df79c7fbf0d",
         "type": "tabs",
         "children": [
-          {
-            "id": "df1a43e51431f6eb",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "272ebc6a857528dc",
             "type": "leaf",
@@ -60,12 +99,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "df1a43e51431f6eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "133aaab4a22a5494",
@@ -138,9 +188,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c33b819b263f523",
+  "active": "127e8d9b82792a51",
   "lastOpenFiles": [
+    "github-archive/old/stepwise analysis.R",
+    "github-archive/old/results table.xlsx",
+    "github-archive/old/pnom app.docx",
+    "github-archive/old/all analyses.R",
+    "github-archive/old",
+    "github-archive/manuscript/variable hand out.docx",
+    "github-archive/manuscript/Variables.docx",
+    "github-archive/manuscript",
+    "github-archive/datasets/strength.SWOW-EN.R123.csv",
+    "github-archive/datasets/single_word_spp.xlsx",
+    "github-archive/datasets/other_assoc_relatedN.csv",
+    "github-archive/README.md",
     "README.md",
-    "JOSERFJUNIOR/ENGLISH/NOT_KNOW/near.md"
+    "I love living far from the city.md",
+    "JOSERFJUNIOR/ENGLISH/NOT_KNOW/far.md",
+    "JOSERFJUNIOR/ENGLISH/KNOW/living.md",
+    "well.md",
+    "JOSERFJUNIOR/ENGLISH/KNOW/about.md",
+    "JOSERFJUNIOR/ENGLISH/KNOW/like.md",
+    "JOSERFJUNIOR/ENGLISH/KNOW/think.md",
+    "JOSERFJUNIOR/ENGLISH/KNOW/driving.md",
+    "JOSERFJUNIOR/ENGLISH/NOT_KNOW/near.md",
+    "JOSERFJUNIOR/ENGLISH/KNOW/have.md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/README.md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/Proximate.md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/Remote.md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/Adjacent.md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/He has a busy schedule..md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/She has both talent and determination..md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/I have a good idea..md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/We have a new car..md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/They have to study for exams..md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/She has a beautiful garden..md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/I have a dog..md",
+    "JOSERFJUNIOR/ENGLISH/KNOW/I.md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/Driving through remote areas feels far from the city..md"
   ]
 }
